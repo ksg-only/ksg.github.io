@@ -1,5 +1,4 @@
 ---
-layout: page
 title: The Journey
 permalink: /about/
 ---
