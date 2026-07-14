@@ -22,7 +22,6 @@ title: Karandeep Rides
 email: ksg9t7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Karandeep's Personal Blog (Hiking, cycling and other adventures)
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
