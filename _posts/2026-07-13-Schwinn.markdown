@@ -101,31 +101,31 @@ Every cyclist has a first bike. Mine was borrowed, undersized, and powder blue. 
 
 ### shot on iPhone 7
 
-![October 5, 2020](/assets/images/IMG_0003.JPG)
+![October 5, 2020]({{site.baseurl}}/assets/images/IMG_0003.JPG)
 > Oct 5, 2020 - McQueen Road
 
 
-![October 5, 2020](/assets/images/IMG_0005.jpg)
+![October 5, 2020]({{site.baseurl}}/assets/images/IMG_0005.jpg)
 > Oct 5, 2020 - Chandler Paseo Trail
 
 
-![October 6, 2020](/assets/images/IMG_0014.jpg)
+![October 6, 2020]({{site.baseurl}}/assets/images/IMG_0014.jpg)
 > Oct 6, 2020 - Queen Creek Rd (near Wells Fargo Center)
 
-![October 7, 2020](/assets/images/IMG_0023.jpg)
+![October 7, 2020]({{site.baseurl}}/assets/images/IMG_0023.jpg)
 > Oct 7, 2020 - Veteran Oasis Park
 
-![October 26, 2020](/assets/images/IMG_0223.jpg)
+![October 26, 2020]({{site.baseurl}}/assets/images/IMG_0223.jpg)
 > Oct 26, 2020
 
-![October 26, 2020](/assets/images/IMG_0232.jpg)
+![October 26, 2020]({{site.baseurl}}/assets/images/IMG_0232.jpg)
 > Oct 26, 2020
 
-![October 31, 2020](/assets/images/IMG_0273.jpg)
+![October 31, 2020]({{site.baseurl}}/assets/images/IMG_0273.jpg)
 > Oct 31, 2020
 
-![November 2, 2020](/assets/images/IMG_0299.jpg)
+![November 2, 2020]({{site.baseurl}}/assets/images/IMG_0299.jpg)
 > Nov 2, 2020 - Hunt Hwy
 
-![November 4, 2020](/assets/images/IMG_0299.jpg)
+![November 4, 2020]({{site.baseurl}}/assets/images/IMG_0299.jpg)
 > Nov 4, 2020 - Hunt Hwy
